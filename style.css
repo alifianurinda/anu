@@ -53,9 +53,9 @@ ul li.active a{
 }
 .logo img{
 	float:left;
-	width:250px;
+	width:150px;
 	height:auto;
-	margin:-102px 20px auto -89px;
+	margin:0px 20px auto -60px;
 }
 .main{
 	max-width:1200px;
